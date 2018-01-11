@@ -1,0 +1,49 @@
+1515662973974	geckodriver	INFO	geckodriver 0.19.1
+1515662973981	geckodriver	INFO	Listening on 127.0.0.1:9157
+1515662974553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\star\\AppData\\Local\\Temp\\rust_mozprofile.VHtkcnUbYQ60"
+1515662975353	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\star\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515662976654	Marionette	INFO	Listening on port 9168
+1515662976705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515662976768	Marionette	DEBUG	Register listener.js for window 4294967297
+1515662976791	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515662977356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515662977356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515662977534	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ccclub.cmbchina.com/mca/MQuery.aspx?WT.refp=%2Fcard-progress$"
+1515662978233	Marionette	DEBUG	Received DOM event "pageshow" for "https://ccclub.cmbchina.com/mca/MQuery.aspx?WT.refp=%2Fcard-progress$"
+1515663032034	Marionette	DEBUG	Register listener.js for window 4294967308
+1515663032083	Marionette	DEBUG	Register listener.js for window 4294967311
+Unable to read VR Path Registry from C:\Users\star\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1515663067955	Marionette	DEBUG	Register listener.js for window 4294967323
+JavaScript error: http://luyunkeji.cn/Public/mobile/default/js/font_size.js, line 11: TypeError: Argument 2 of EventTarget.addEventListener is not an object.
+1515663093424	Marionette	DEBUG	Register listener.js for window 4294967332
+JavaScript warning: https://xyk.cmbchina.com/LatteSubsite/tracer/public/index.html, line 20: unreachable code after return statement
+JavaScript warning: https://xyk.cmbchina.com/LatteSubsite/tracer/public/index.html, line 45: unreachable code after return statement
+JavaScript warning: https://xyk.cmbchina.com/LatteSubsite/tracer/public/index.html, line 20: unreachable code after return statement
+JavaScript warning: https://xyk.cmbchina.com/LatteSubsite/tracer/public/index.html, line 45: unreachable code after return statement
+1515663484882	Marionette	DEBUG	Register listener.js for window 4294967339
+1515663548489	Marionette	DEBUG	Register listener.js for window 4294967344
+JavaScript warning: https://pos.baidu.com/kccm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1515663549686&ti=%E5%B4%94%E9%9B%85%E6%B6%B5_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1903x947&pss=1903x5358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1515663549&prot=2&rw=947&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%25B4%2594%25E9%259B%2585%25E6%25B6%25B5%2F20128837%3Ffr%3Daladdin%26fromid%3D20148324%26fromtitle%3D%25E9%2598%25BF%25E6%258B%2589%25E8%2595%25BE&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DhqglF1I5V_7OkW4R_7Lw6x6tGp64boC7KRg0_6Vb390gam5DkCU41ia_2A4j5E15IhfJxZDswdyYW-G3lRNhUjAXC_VZ27XwLpXnj2f7sZGlm2pA_GKUpM3zNr_2pPspoTTzQof5u8ezQrAAljO5Ah7qCBu-fCDu3HiYUEX9hpYUH-K-CE3XyEwRnGlgTe-7%26wd%3D%26eqid%3De3bbca0f00009e75000000045a5730b4&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1515663550&qn=aa516b704820cb0a&tt=1515663549666.22.300.303, line 118: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/kccm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1515663549686&ti=%E5%B4%94%E9%9B%85%E6%B6%B5_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1903x947&pss=1903x5358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1515663549&prot=2&rw=947&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%25B4%2594%25E9%259B%2585%25E6%25B6%25B5%2F20128837%3Ffr%3Daladdin%26fromid%3D20148324%26fromtitle%3D%25E9%2598%25BF%25E6%258B%2589%25E8%2595%25BE&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DhqglF1I5V_7OkW4R_7Lw6x6tGp64boC7KRg0_6Vb390gam5DkCU41ia_2A4j5E15IhfJxZDswdyYW-G3lRNhUjAXC_VZ27XwLpXnj2f7sZGlm2pA_GKUpM3zNr_2pPspoTTzQof5u8ezQrAAljO5Ah7qCBu-fCDu3HiYUEX9hpYUH-K-CE3XyEwRnGlgTe-7%26wd%3D%26eqid%3De3bbca0f00009e75000000045a5730b4&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1515663550&qn=aa516b704820cb0a&tt=1515663549666.22.300.303, line 118: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1515663570926	Marionette	DEBUG	Register listener.js for window 4294967359
+JavaScript warning: https://pos.baidu.com/gcnm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1515663571676&ti=%E5%B4%94%E9%9B%85%E6%B6%B5_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1903x947&pss=1903x5358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1515663571&prot=2&rw=947&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%25B4%2594%25E9%259B%2585%25E6%25B6%25B5%2F20128837%3Ffr%3Daladdin%26fromid%3D20148324%26fromtitle%3D%25E9%2598%25BF%25E6%258B%2589%25E8%2595%25BE&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DhqglF1I5V_7OkW4R_7Lw6x6tGp64boC7KRg0_6Vb390gam5DkCU41ia_2A4j5E15IhfJxZDswdyYW-G3lRNhUjAXC_VZ27XwLpXnj2f7sZGlm2pA_GKUpM3zNr_2pPspoTTzQof5u8ezQrAAljO5Ah7qCBu-fCDu3HiYUEX9hpYUH-K-CE3XyEwRnGlgTe-7%26wd%3D%26eqid%3De3bbca0f00009e75000000045a5730b4&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1515663572&qn=aa516b704820cb0a&tt=1515663571658.25.25.26, line 118: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/gcnm?conwid=250&conhei=250&rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1515663571676&ti=%E5%B4%94%E9%9B%85%E6%B6%B5_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1903x947&pss=1903x5358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1515663571&prot=2&rw=947&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%25B4%2594%25E9%259B%2585%25E6%25B6%25B5%2F20128837%3Ffr%3Daladdin%26fromid%3D20148324%26fromtitle%3D%25E9%2598%25BF%25E6%258B%2589%25E8%2595%25BE&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DhqglF1I5V_7OkW4R_7Lw6x6tGp64boC7KRg0_6Vb390gam5DkCU41ia_2A4j5E15IhfJxZDswdyYW-G3lRNhUjAXC_VZ27XwLpXnj2f7sZGlm2pA_GKUpM3zNr_2pPspoTTzQof5u8ezQrAAljO5Ah7qCBu-fCDu3HiYUEX9hpYUH-K-CE3XyEwRnGlgTe-7%26wd%3D%26eqid%3De3bbca0f00009e75000000045a5730b4&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1515663572&qn=aa516b704820cb0a&tt=1515663571658.25.25.26, line 118: unreachable code after return statement
+1515663587847	Marionette	DEBUG	Register listener.js for window 4294967375
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1515663649651	Marionette	DEBUG	Register listener.js for window 4294967378
+1515663655559	Marionette	DEBUG	Register listener.js for window 4294967383
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter30
+[Child 25960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
