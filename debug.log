@@ -1,3 +1,14 @@
 [0111/175105.789:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。  (0xc0000022)
 [0111/175105.790:ERROR:exception_snapshot_win.cc(87)] thread ID 24288 not found in process
 [0111/175105.790:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0111/203304.628:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0111/203304.629:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0111/203304.629:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0111/203304.629:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0111/203304.629:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。  (0xc0000022)
+[0111/203304.629:ERROR:exception_snapshot_win.cc(87)] thread ID 13564 not found in process
+[0111/203304.629:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0111/203304.644:ERROR:process_reader_win.cc(151)] SuspendThread: 拒绝访问。 (0x5)
+[0111/203304.645:ERROR:process_reader_win.cc(123)] NtOpenThread: {无法访问} 过程已请求访问一对象，但未给访问权限。  (0xc0000022)
+[0111/203304.646:ERROR:exception_snapshot_win.cc(87)] thread ID 15208 not found in process
+[0111/203304.646:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
