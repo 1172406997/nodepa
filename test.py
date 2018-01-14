@@ -31,7 +31,8 @@ cookie = driver.get_cookies()
 
 driver.find_element_by_id("txbcardid").send_keys("410721199709154048")
 driver.find_element_by_id("tbxExtraCode").send_keys("1234")
-text = driver.find_element_by_class_name("new_extraCode").text
+driver.find_element_by_id("btnPQSSendSMS").click()
+text = driver.find_element_by_id("errmsg").text
 html=driver.page_source
 d = pq(html)
 driver.save_screenshot('screenshot.png')
@@ -39,7 +40,7 @@ driver.save_screenshot('screenshot.png')
 # 生成html
 z = d(".new_extraCode").html()
 
-print(driver.find_element_by_id("extraimg").location)
+print("texttextetxetext"+text)
 left = driver.find_element_by_id("extraimg").location['x']
 top = driver.find_element_by_id("extraimg").location['y']
 right = driver.find_element_by_id("extraimg").location['x'] + driver.find_element_by_id("extraimg").size['width']
