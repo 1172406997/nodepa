@@ -20,7 +20,7 @@ import time,os,sys
 
 options = webdriver.ChromeOptions()
 options.add_argument('disable-infobars')
-driver = webdriver.Chrome(chrome_options=options)
+driver = webdriver.Chrome()
 driver.fullscreen_window()
 #driver.get("https://ccclub.cmbchina.com/mca/MQuery.aspx?WT.refp=%2Fcard-progress$")
 driver.get("https://data.aliyun.com/visual/datav?utm_content=se_934168")
